@@ -23,4 +23,4 @@ Sou motivado por ajudar pessoas, empresas e instituições a resolverem problema
 Tem um problema? Entre em contato e vamos resolver juntos!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=AlexandreCalmon&logoColor=white&link=https://www.linkedin.com/in/alexandrecalmon/)](https://www.linkedin.com/in/alexandrecalmon/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/alexandrecalmon/)](https://www.linkedin.com/in/alexandrecalmon/)
