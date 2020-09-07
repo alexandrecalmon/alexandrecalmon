@@ -22,3 +22,8 @@ Sou motivado por ajudar pessoas, empresas e instituições a resolverem problema
 
 Tem um problema? Entre em contato e vamos resolver juntos!
 
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/alexandrecalmon"
