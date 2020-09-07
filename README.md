@@ -24,3 +24,5 @@ Tem um problema? Entre em contato e vamos resolver juntos!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlexandreCalmon-blue?style=flat-square&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/alexandrecalmon/)](https://www.linkedin.com/in/alexandrecalmon/)
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+11+981300027&text=Hello!)](https://api.whatsapp.com/send?phone=55+11+981300027&text=Hello!)
