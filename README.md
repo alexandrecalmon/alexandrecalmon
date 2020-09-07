@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://img1.wsimg.com/isteam/ip/b8b02fee-4345-4577-9a87-00153d078373/Calmon.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534.5px,cg:true">
+<img align="right" width="400" height="400" src="https://img1.wsimg.com/isteam/ip/b8b02fee-4345-4577-9a87-00153d078373/Carreira.jpg/:/cr=t:0%25,l:30.45%25,w:57.47%25,h:100%25/rs=w:900px,h:450px,cg:true">
 
 # Seja bem-vindo(a)!
  
