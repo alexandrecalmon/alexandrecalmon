@@ -1,4 +1,6 @@
-### Alexandre Calmon 👋
+# Seja bem-vindo(a)!
+ 
+## Meu nome é Alexandre Calmon!
 
 <!--
 **alexandrecalmon/alexandrecalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +27,9 @@ Tem um problema? Entre em contato e vamos resolver juntos!
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlexandreCalmon-blue?style=flat-square&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/alexandrecalmon/)](https://www.linkedin.com/in/alexandrecalmon/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+11+981300027&text=Hello!)](https://api.whatsapp.com/send?phone=55+11+981300027&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Email:contato@alexandrecalmon.tech-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:contato@alexandrecalmon.tech)](mailto:contato@alexandrecalmon.tech)
+[![Website alexandrecalmon.tech](https://img.shields.io/website-up-down-green-red/http/alexandrecalmon.tech.svg)](http://alexandrecalmon.tech/)
+
+
+
+
