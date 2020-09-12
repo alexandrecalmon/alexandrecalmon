@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/C4E2DAQGehuDIBQ7o_Q/profile-treasury-image-shrink_1920_1920/0?e=1599588000&v=beta&t=-mLbR_Jq38QZgILSYsvyWFYF2EPve7gslbc7tcir1kE">
+<img align="right" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/C4E2DAQGehuDIBQ7o_Q/profile-treasury-image-shrink_1920_1920/0?e=1599962400&v=beta&t=Cxflb8mQq8pUygRahRj_RPBAHtl0aCGLQ4YMXcg_iRA">
 
 # Seja bem-vindo(a)!
  
