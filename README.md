@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/C4E2DAQGehuDIBQ7o_Q/profile-treasury-image-shrink_1920_1920/0?e=1600981200&v=beta&t=S_y2dG-Pbc6ImKKYmNzAAWuiG_cMrkE-bODUIu1O9g0">
+<img align="right" width="400" height="400" src="https://img1.wsimg.com/isteam/ip/b8b02fee-4345-4577-9a87-00153d078373/Bras%C3%A3o.jpg/:/">
 
 # Seja bem-vindo(a)!
  
